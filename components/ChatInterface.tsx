@@ -1,4 +1,5 @@
-
+//Chat UI + message history. Calls Gemini via getGeminiResponse, 
+// parses purchase‑order JSON blocks, and renders a “confirm order” card.
 import React, { useState, useRef, useEffect, forwardRef, useImperativeHandle } from 'react';
 import { ChatMessage, InventoryItem } from '../types';
 import { getGeminiResponse } from '../services/geminiService';

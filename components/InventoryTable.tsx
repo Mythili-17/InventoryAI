@@ -1,3 +1,4 @@
+// Renders a detailed inventory table with status badges.
 
 import React from 'react';
 import { InventoryItem } from '../types';

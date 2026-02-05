@@ -1,3 +1,5 @@
+//Sample inventory data plus the AI “system instruction” prompt that shapes 
+// Gemini’s behavior.
 import { InventoryItem } from './types';
 
 export const INITIAL_INVENTORY: InventoryItem[] = [

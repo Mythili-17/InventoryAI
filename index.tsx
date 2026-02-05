@@ -1,3 +1,4 @@
+// React entry point that renders <App /> into #root.
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';

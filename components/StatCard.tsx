@@ -1,3 +1,4 @@
+//Small stat summary tiles for the dashboard.
 
 import React from 'react';
 

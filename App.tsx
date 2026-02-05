@@ -1,3 +1,5 @@
+//The main UI layout and page logic. Controls tabs (dashboard vs table), 
+// CSV import, and coordinates the chat component.
 
 import React, { useState, useRef } from 'react';
 import { INITIAL_INVENTORY } from './constants';

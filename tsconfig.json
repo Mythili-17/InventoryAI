@@ -1,3 +1,4 @@
+// TypeScript compiler settings.
 {
   "compilerOptions": {
     "target": "ESNext",

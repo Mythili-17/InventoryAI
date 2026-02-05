@@ -1,4 +1,4 @@
-
+//Shared TypeScript types (inventory items, chat messages, etc).
 export interface InventoryItem {
   id: string;
   name: string;

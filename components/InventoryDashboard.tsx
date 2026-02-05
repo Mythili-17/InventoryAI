@@ -1,3 +1,4 @@
+//Computes stats (low stock, expiring soon, etc.) and renders charts via Recharts.
 
 import React, { useMemo } from 'react';
 import { InventoryItem } from '../types';

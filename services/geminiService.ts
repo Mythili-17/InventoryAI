@@ -1,3 +1,7 @@
+// Wraps the Gemini API call. 
+// Builds a system instruction + inventory JSON, sends the user prompt, 
+// and returns a response string.
+
 import { GoogleGenAI } from "@google/genai";
 import { InventoryItem } from "../types";
 import { SYSTEM_INSTRUCTION } from "../constants";
